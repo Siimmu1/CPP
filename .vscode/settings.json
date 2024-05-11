@@ -50,6 +50,21 @@
         "xlocmon": "cpp",
         "xloctime": "cpp",
         "fstream": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "functional": "cpp",
+        "unordered_map": "cpp",
+        "locale": "cpp",
+        "optional": "cpp",
+        "regex": "cpp",
+        "variant": "cpp",
+        "xlocbuf": "cpp",
+        "xlocmes": "cpp"
     }
 }

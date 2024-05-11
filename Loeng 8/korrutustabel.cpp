@@ -20,16 +20,16 @@ void tabel1(const korrutustabel & tabel) {
     for (int j = 1; j <= tabel.veerud; ++j) {
         for (int i = 1; i <= tabel.read; ++i) {
 
-            if (suurimvaartus = uhekohaline)
+            if (uhekohaline)
                 cout << " " << setw(1) << i * j;
 
-            else if (suurimvaartus = kahekohaline)
+            else if (kahekohaline)
                 cout << " " << setw(2) << i * j;
 
-            else if (suurimvaartus = kolmekohaline)
+            else if (kolmekohaline)
                cout << " " << setw(3) << i * j;
             
-            else if (suurimvaartus = neljakohaline)
+            else if (neljakohaline)
                 cout << " " << setw(4) << i * j;
 
             else
